@@ -1,0 +1,21 @@
+.body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.question-box {
+    display: flex;
+    flex-direction: column;
+    border: solid black 5px;
+
+}
+
+.button-group {
+    display: flex;
+    flex-direction: column;
+    padding: 2px;
+}
+
+.answer-button {
+    padding: 2px;
+    margin: 2px;
+}
